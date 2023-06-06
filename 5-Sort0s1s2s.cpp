@@ -21,9 +21,6 @@ void sort012(int *arr, int n)
 }
 
 /*
-//******Dutch National flag algorithm******
-
-   
-}
+Approach 2:
+sort(arr,arr+n);  //constant time
 */
-// sort(arr,arr+n);  //constant time
