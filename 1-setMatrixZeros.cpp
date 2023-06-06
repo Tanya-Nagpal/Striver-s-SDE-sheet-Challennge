@@ -31,4 +31,4 @@ void setZeros(vector<vector<int>> &matrix)
             }
         }
 }
-//TC = O(m*n)
+//Time Complexity = O(m*n)
